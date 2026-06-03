@@ -1,9 +1,9 @@
 {
-  "name": "weekly-github-stars-skills-mcp",
+  "name": "weekly-daily-stars",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Daily and weekly GitHub star reports for Skills and MCP repositories.",
+  "description": "Weekly and daily GitHub star reports for Skills and MCP repositories.",
   "scripts": {
     "check": "node --check src/repositories.mjs && node --check src/update-stars.mjs && node --check src/report.mjs",
     "update": "node src/update-stars.mjs --window all",

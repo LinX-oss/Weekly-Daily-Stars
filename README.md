@@ -1,4 +1,4 @@
-# Weekly GitHub Stars: Skills and MCP
+# Weekly/Daily Stars
 
 这个项目每天生成两类榜单：
 
