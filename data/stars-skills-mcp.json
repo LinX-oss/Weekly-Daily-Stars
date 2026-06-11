@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T04:57:27.914Z",
-  "dailySince": "2026-06-09T04:57:27.914Z",
+  "generatedAt": "2026-06-11T05:09:21.240Z",
+  "dailySince": "2026-06-10T05:09:21.240Z",
   "requestedWindow": "all",
   "sources": {
     "weeklyStars": "Star History API weekly_activity.new_stars",
@@ -15,7 +15,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/servers",
       "weeklyStars": 11,
       "weeklyPushes": 3,
-      "totalStars": 86948,
+      "totalStars": 86999,
       "description": "Model Context Protocol Servers",
       "intro": "Model Context Protocol Servers",
       "topics": [],
@@ -24,7 +24,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
+      "dailySince": "2026-06-10T05:09:21.240Z",
       "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=870: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
@@ -34,7 +34,7 @@
       "starHistory": "https://www.star-history.com/punkpeye/awesome-mcp-servers",
       "weeklyStars": 23,
       "weeklyPushes": 60,
-      "totalStars": 88748,
+      "totalStars": 88793,
       "description": "A collection of MCP servers.",
       "intro": "A collection of MCP servers.",
       "topics": [
@@ -46,7 +46,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
+      "dailySince": "2026-06-10T05:09:21.240Z",
       "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/punkpeye/awesome-mcp-servers/stargazers?per_page=100&page=888: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
@@ -56,7 +56,7 @@
       "starHistory": "https://www.star-history.com/ChromeDevTools/chrome-devtools-mcp",
       "weeklyStars": 20,
       "weeklyPushes": 17,
-      "totalStars": 43166,
+      "totalStars": 43258,
       "description": "Chrome DevTools for coding agents",
       "intro": "Chrome DevTools for coding agents",
       "topics": [
@@ -74,8 +74,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=432: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=433: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "mcp",
@@ -84,7 +84,7 @@
       "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
       "weeklyStars": 16,
       "weeklyPushes": 0,
-      "totalStars": 33674,
+      "totalStars": 33723,
       "description": "Playwright MCP server",
       "intro": "Playwright MCP server",
       "topics": [
@@ -93,10 +93,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 45,
+      "dailyStars": 54,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -105,7 +105,7 @@
       "starHistory": "https://www.star-history.com/github/github-mcp-server",
       "weeklyStars": 6,
       "weeklyPushes": 7,
-      "totalStars": 30533,
+      "totalStars": 30555,
       "description": "GitHub's official MCP Server",
       "intro": "GitHub's official MCP Server",
       "topics": [
@@ -115,10 +115,10 @@
       ],
       "language": "Go",
       "source": "star-history.com",
-      "dailyStars": 28,
+      "dailyStars": 29,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -127,7 +127,7 @@
       "starHistory": "https://www.star-history.com/PrefectHQ/fastmcp",
       "weeklyStars": 6,
       "weeklyPushes": 4,
-      "totalStars": 25551,
+      "totalStars": 25568,
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "intro": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "topics": [
@@ -143,10 +143,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 17,
+      "dailyStars": 18,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -155,16 +155,16 @@
       "starHistory": "https://www.star-history.com/ahujasid/blender-mcp",
       "weeklyStars": 12,
       "weeklyPushes": 2,
-      "totalStars": 22506,
+      "totalStars": 22546,
       "description": "",
       "intro": "No repository description provided.",
       "topics": [],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 40,
-      "dailyScannedPages": 2,
+      "dailyStars": 43,
+      "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -173,7 +173,7 @@
       "starHistory": "https://www.star-history.com/czlonkowski/n8n-mcp",
       "weeklyStars": 17,
       "weeklyPushes": 3,
-      "totalStars": 21633,
+      "totalStars": 21652,
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
       "intro": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "topics": [
@@ -184,10 +184,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 24,
+      "dailyStars": 23,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -196,7 +196,7 @@
       "starHistory": "https://www.star-history.com/microsoft/mcp-for-beginners",
       "weeklyStars": 2,
       "weeklyPushes": 18,
-      "totalStars": 16424,
+      "totalStars": 16478,
       "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
       "intro": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a...",
       "topics": [
@@ -217,10 +217,10 @@
       ],
       "language": "Jupyter Notebook",
       "source": "star-history.com",
-      "dailyStars": 64,
+      "dailyStars": 22,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -229,7 +229,7 @@
       "starHistory": "https://www.star-history.com/googleapis/mcp-toolbox",
       "weeklyStars": 1,
       "weeklyPushes": 58,
-      "totalStars": 15528,
+      "totalStars": 15558,
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "intro": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "topics": [
@@ -256,10 +256,10 @@
       ],
       "language": "Go",
       "source": "star-history.com",
-      "dailyStars": 24,
+      "dailyStars": 30,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -268,7 +268,7 @@
       "starHistory": "https://www.star-history.com/GLips/Figma-Context-MCP",
       "weeklyStars": 5,
       "weeklyPushes": 0,
-      "totalStars": 15040,
+      "totalStars": 15057,
       "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
       "intro": "MCP server to provide Figma layout information to AI coding agents like Cursor",
       "topics": [
@@ -280,10 +280,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 14,
+      "dailyStars": 17,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -292,7 +292,7 @@
       "starHistory": "https://www.star-history.com/xpzouying/xiaohongshu-mcp",
       "weeklyStars": 7,
       "weeklyPushes": 1,
-      "totalStars": 14064,
+      "totalStars": 14082,
       "description": "MCP for xiaohongshu.com",
       "intro": "MCP for xiaohongshu.com",
       "topics": [
@@ -302,10 +302,10 @@
       ],
       "language": "Go",
       "source": "star-history.com",
-      "dailyStars": 20,
+      "dailyStars": 21,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -314,7 +314,7 @@
       "starHistory": "https://www.star-history.com/tadata-org/fastapi_mcp",
       "weeklyStars": 0,
       "weeklyPushes": 0,
-      "totalStars": 11908,
+      "totalStars": 11910,
       "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "intro": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "topics": [
@@ -334,10 +334,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 6,
+      "dailyStars": 2,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -346,16 +346,16 @@
       "starHistory": "https://www.star-history.com/hangwin/mcp-chrome",
       "weeklyStars": 4,
       "weeklyPushes": 0,
-      "totalStars": 11875,
+      "totalStars": 11882,
       "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
       "intro": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex b...",
       "topics": [],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 14,
+      "dailyStars": 10,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -364,16 +364,16 @@
       "starHistory": "https://www.star-history.com/BeehiveInnovations/pal-mcp-server",
       "weeklyStars": 0,
       "weeklyPushes": 0,
-      "totalStars": 11591,
+      "totalStars": 11589,
       "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
       "intro": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
       "topics": [],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 1,
+      "dailyStars": 4,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -382,7 +382,7 @@
       "starHistory": "https://www.star-history.com/mcp-use/mcp-use",
       "weeklyStars": 1,
       "weeklyPushes": 30,
-      "totalStars": 10076,
+      "totalStars": 10083,
       "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
       "intro": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
       "topics": [
@@ -409,10 +409,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 10,
+      "dailyStars": 6,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -421,16 +421,16 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/python-sdk",
       "weeklyStars": 4,
       "weeklyPushes": 14,
-      "totalStars": 23273,
+      "totalStars": 23280,
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "intro": "The official Python SDK for Model Context Protocol servers and clients",
       "topics": [],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 7,
+      "dailyStars": 11,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -439,16 +439,16 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/typescript-sdk",
       "weeklyStars": 3,
       "weeklyPushes": 21,
-      "totalStars": 12632,
+      "totalStars": 12641,
       "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
       "intro": "The official TypeScript SDK for Model Context Protocol servers and clients",
       "topics": [],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 8,
+      "dailyStars": 6,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -457,16 +457,16 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/inspector",
       "weeklyStars": 3,
       "weeklyPushes": 27,
-      "totalStars": 10034,
+      "totalStars": 10042,
       "description": "Visual testing tool for MCP servers",
       "intro": "Visual testing tool for MCP servers",
       "topics": [],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 13,
+      "dailyStars": 11,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -475,7 +475,7 @@
       "starHistory": "https://www.star-history.com/awslabs/mcp",
       "weeklyStars": 1,
       "weeklyPushes": 68,
-      "totalStars": 9235,
+      "totalStars": 9239,
       "description": "Open source MCP Servers for AWS",
       "intro": "Open source MCP Servers for AWS",
       "topics": [
@@ -491,10 +491,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 3,
+      "dailyStars": 13,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -503,16 +503,16 @@
       "starHistory": "https://www.star-history.com/LaurieWired/GhidraMCP",
       "weeklyStars": 2,
       "weeklyPushes": 0,
-      "totalStars": 9168,
+      "totalStars": 9178,
       "description": "MCP Server for Ghidra",
       "intro": "MCP Server for Ghidra",
       "topics": [],
       "language": "Java",
       "source": "star-history.com",
-      "dailyStars": 10,
+      "dailyStars": 14,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -521,7 +521,7 @@
       "starHistory": "https://www.star-history.com/mrexodia/ida-pro-mcp",
       "weeklyStars": 6,
       "weeklyPushes": 5,
-      "totalStars": 9234,
+      "totalStars": 9263,
       "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "intro": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "topics": [
@@ -537,10 +537,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 27,
+      "dailyStars": 28,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -549,7 +549,7 @@
       "starHistory": "https://www.star-history.com/mark3labs/mcp-go",
       "weeklyStars": 1,
       "weeklyPushes": 2,
-      "totalStars": 8785,
+      "totalStars": 8794,
       "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
       "intro": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
       "topics": [],
@@ -558,7 +558,7 @@
       "dailyStars": 5,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -567,7 +567,7 @@
       "starHistory": "https://www.star-history.com/lastmile-ai/mcp-agent",
       "weeklyStars": 0,
       "weeklyPushes": 0,
-      "totalStars": 8359,
+      "totalStars": 8363,
       "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
       "intro": "Build effective agents using Model Context Protocol and simple workflow patterns",
       "topics": [
@@ -582,10 +582,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 6,
+      "dailyStars": 5,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -594,7 +594,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/registry",
       "weeklyStars": 0,
       "weeklyPushes": 3,
-      "totalStars": 6912,
+      "totalStars": 6913,
       "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "intro": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "topics": [
@@ -603,10 +603,10 @@
       ],
       "language": "Go",
       "source": "star-history.com",
-      "dailyStars": 2,
+      "dailyStars": 0,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -615,7 +615,7 @@
       "starHistory": "https://www.star-history.com/0x4m4/hexstrike-ai",
       "weeklyStars": 18,
       "weeklyPushes": 0,
-      "totalStars": 9449,
+      "totalStars": 9478,
       "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
       "intro": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil...",
       "topics": [
@@ -642,10 +642,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 29,
+      "dailyStars": 32,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -654,7 +654,7 @@
       "starHistory": "https://www.star-history.com/chopratejas/headroom",
       "weeklyStars": 579,
       "weeklyPushes": 36,
-      "totalStars": 19603,
+      "totalStars": 21161,
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "intro": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "topics": [
@@ -681,10 +681,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 541,
-      "dailyScannedPages": 6,
+      "dailyStars": 386,
+      "dailyScannedPages": 4,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -693,7 +693,7 @@
       "starHistory": "https://www.star-history.com/idosal/git-mcp",
       "weeklyStars": 3,
       "weeklyPushes": 0,
-      "totalStars": 8154,
+      "totalStars": 8157,
       "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
       "intro": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
       "topics": [
@@ -709,10 +709,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 3,
+      "dailyStars": 4,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -727,10 +727,10 @@
       "topics": [],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 3,
+      "dailyStars": 1,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "mcp",
@@ -811,7 +811,7 @@
       "starHistory": "https://www.star-history.com/affaan-m/ECC",
       "weeklyStars": 345,
       "weeklyPushes": 32,
-      "totalStars": 211336,
+      "totalStars": 212262,
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "topics": [
@@ -829,8 +829,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2114: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2123: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -839,7 +839,7 @@
       "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "weeklyStars": 141,
       "weeklyPushes": 0,
-      "totalStars": 89176,
+      "totalStars": 89658,
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
       "intro": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
       "topics": [
@@ -868,8 +868,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=892: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=897: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -878,7 +878,7 @@
       "starHistory": "https://www.star-history.com/ComposioHQ/awesome-claude-skills",
       "weeklyStars": 49,
       "weeklyPushes": 0,
-      "totalStars": 63838,
+      "totalStars": 63983,
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "intro": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "topics": [
@@ -905,8 +905,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=639: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=640: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -915,7 +915,7 @@
       "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
       "weeklyStars": 113,
       "weeklyPushes": 0,
-      "totalStars": 70354,
+      "totalStars": 70812,
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "intro": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "topics": [
@@ -935,8 +935,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=704: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=709: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -945,7 +945,7 @@
       "starHistory": "https://www.star-history.com/sickn33/antigravity-awesome-skills",
       "weeklyStars": 28,
       "weeklyPushes": 35,
-      "totalStars": 40148,
+      "totalStars": 40219,
       "description": "Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
       "intro": "Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, ...",
       "topics": [
@@ -975,8 +975,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/sickn33/antigravity-awesome-skills/stargazers?per_page=100&page=402: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/sickn33/antigravity-awesome-skills/stargazers?per_page=100&page=403: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -985,7 +985,7 @@
       "starHistory": "https://www.star-history.com/VoltAgent/awesome-openclaw-skills",
       "weeklyStars": 15,
       "weeklyPushes": 1,
-      "totalStars": 50036,
+      "totalStars": 50065,
       "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "intro": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "topics": [
@@ -1007,7 +1007,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
+      "dailySince": "2026-06-10T05:09:21.240Z",
       "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/VoltAgent/awesome-openclaw-skills/stargazers?per_page=100&page=501: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
@@ -1017,7 +1017,7 @@
       "starHistory": "https://www.star-history.com/VoltAgent/awesome-agent-skills",
       "weeklyStars": 33,
       "weeklyPushes": 1,
-      "totalStars": 24745,
+      "totalStars": 24862,
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "intro": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "topics": [
@@ -1038,10 +1038,10 @@
       ],
       "language": "",
       "source": "star-history.com",
-      "dailyStars": 96,
+      "dailyStars": 70,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1050,7 +1050,7 @@
       "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
       "weeklyStars": 90,
       "weeklyPushes": 4,
-      "totalStars": 49449,
+      "totalStars": 50108,
       "description": "Production-grade engineering skills for AI coding agents.",
       "intro": "Production-grade engineering skills for AI coding agents.",
       "topics": [
@@ -1066,8 +1066,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z",
-      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=495: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=502: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -1076,16 +1076,16 @@
       "starHistory": "https://www.star-history.com/vercel-labs/skills",
       "weeklyStars": 33,
       "weeklyPushes": 7,
-      "totalStars": 21793,
+      "totalStars": 21916,
       "description": "The open agent skills tool - npx skills",
       "intro": "The open agent skills tool - npx skills",
       "topics": [],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 42,
-      "dailyScannedPages": 1,
+      "dailyStars": 125,
+      "dailyScannedPages": 2,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1094,7 +1094,7 @@
       "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
       "weeklyStars": 435,
       "weeklyPushes": 0,
-      "totalStars": 35906,
+      "totalStars": 38550,
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "topics": [
@@ -1121,10 +1121,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 939,
-      "dailyScannedPages": 10,
+      "dailyStars": 791,
+      "dailyScannedPages": 8,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1145,36 +1145,36 @@
       "starHistory": "https://www.star-history.com/OthmanAdi/planning-with-files",
       "weeklyStars": 24,
       "weeklyPushes": 0,
-      "totalStars": 22932,
-      "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
-      "intro": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+      "totalStars": 22989,
+      "description": "Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, Hermes agent, Pi, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+      "intro": "Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Cod...",
       "topics": [
-        "adal",
         "agent-skills",
-        "antigravity",
+        "agentic-workflows",
+        "ai-agents",
+        "autonomous-agents",
         "claude",
         "claude-code",
         "claude-skills",
+        "codex",
         "copilot",
         "copilot-skills",
+        "cursor",
         "hermes",
         "hermes-agent",
         "hermes-skill",
-        "kilocode",
         "manus",
-        "mastra",
-        "openclaw",
-        "openclaw-skills",
+        "multi-agent-systems",
         "pi",
         "pi-agent",
         "planning"
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 61,
+      "dailyStars": 38,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1183,16 +1183,16 @@
       "starHistory": "https://www.star-history.com/blader/humanizer",
       "weeklyStars": 54,
       "weeklyPushes": 0,
-      "totalStars": 23099,
+      "totalStars": 23317,
       "description": "Claude Code skill that removes signs of AI-generated writing from text",
       "intro": "Claude Code skill that removes signs of AI-generated writing from text",
       "topics": [],
       "language": "",
       "source": "star-history.com",
-      "dailyStars": 59,
-      "dailyScannedPages": 1,
+      "dailyStars": 188,
+      "dailyScannedPages": 2,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1213,16 +1213,16 @@
       "starHistory": "https://www.star-history.com/titanwings/colleague-skill",
       "weeklyStars": 13,
       "weeklyPushes": 0,
-      "totalStars": 19190,
+      "totalStars": 19223,
       "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
       "intro": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
       "topics": [],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 22,
+      "dailyStars": 55,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1231,7 +1231,7 @@
       "starHistory": "https://www.star-history.com/tanweai/pua",
       "weeklyStars": 6,
       "weeklyPushes": 0,
-      "totalStars": 18061,
+      "totalStars": 18106,
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
       "intro": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.",
       "topics": [
@@ -1242,10 +1242,10 @@
       ],
       "language": "TypeScript",
       "source": "star-history.com",
-      "dailyStars": 62,
-      "dailyScannedPages": 1,
+      "dailyStars": 34,
+      "dailyScannedPages": 2,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1254,7 +1254,7 @@
       "starHistory": "https://www.star-history.com/alirezarezvani/claude-skills",
       "weeklyStars": 22,
       "weeklyPushes": 6,
-      "totalStars": 17572,
+      "totalStars": 17691,
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "intro": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8...",
       "topics": [
@@ -1281,10 +1281,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 60,
+      "dailyStars": 35,
       "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1317,7 +1317,7 @@
       "starHistory": "https://www.star-history.com/phuryn/pm-skills",
       "weeklyStars": 47,
       "weeklyPushes": 2,
-      "totalStars": 13096,
+      "totalStars": 13813,
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "intro": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "topics": [
@@ -1331,10 +1331,10 @@
       ],
       "language": "",
       "source": "star-history.com",
-      "dailyStars": 239,
-      "dailyScannedPages": 3,
+      "dailyStars": 324,
+      "dailyScannedPages": 4,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1343,7 +1343,7 @@
       "starHistory": "https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "weeklyStars": 25,
       "weeklyPushes": 1,
-      "totalStars": 11747,
+      "totalStars": 11844,
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
       "intro": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework...",
       "topics": [
@@ -1370,10 +1370,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 102,
-      "dailyScannedPages": 2,
+      "dailyStars": 92,
+      "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1382,7 +1382,7 @@
       "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
       "weeklyStars": 48,
       "weeklyPushes": 3,
-      "totalStars": 35019,
+      "totalStars": 35148,
       "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "topics": [
@@ -1405,10 +1405,10 @@
       ],
       "language": "",
       "source": "star-history.com",
-      "dailyStars": 121,
-      "dailyScannedPages": 2,
+      "dailyStars": 92,
+      "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1417,7 +1417,7 @@
       "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
       "weeklyStars": 444,
       "weeklyPushes": 0,
-      "totalStars": 39017,
+      "totalStars": 40059,
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
       "intro": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "topics": [
@@ -1437,10 +1437,11 @@
       ],
       "language": "Shell",
       "source": "star-history.com",
-      "dailyStars": 405,
-      "dailyScannedPages": 5,
+      "dailyStars": null,
+      "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z",
+      "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=401: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
     },
     {
       "kind": "skill",
@@ -1449,7 +1450,7 @@
       "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
       "weeklyStars": 27,
       "weeklyPushes": 173,
-      "totalStars": 29703,
+      "totalStars": 29792,
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "topics": [
@@ -1459,10 +1460,10 @@
       ],
       "language": "Python",
       "source": "star-history.com",
-      "dailyStars": 93,
-      "dailyScannedPages": 2,
+      "dailyStars": 39,
+      "dailyScannedPages": 1,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-06-09T04:57:27.914Z"
+      "dailySince": "2026-06-10T05:09:21.240Z"
     },
     {
       "kind": "skill",
@@ -1558,7 +1559,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 435,
         "weeklyPushes": 0,
-        "totalStars": 35906,
+        "totalStars": 38550,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -1585,10 +1586,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 939,
-        "dailyScannedPages": 10,
+        "dailyStars": 791,
+        "dailyScannedPages": 8,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -1597,7 +1598,7 @@
         "starHistory": "https://www.star-history.com/chopratejas/headroom",
         "weeklyStars": 579,
         "weeklyPushes": 36,
-        "totalStars": 19603,
+        "totalStars": 21161,
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "intro": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "topics": [
@@ -1624,42 +1625,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 541,
-        "dailyScannedPages": 6,
+        "dailyStars": 386,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "skill",
-        "name": "Leonxlnx/taste-skill",
-        "github": "https://github.com/Leonxlnx/taste-skill",
-        "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
-        "weeklyStars": 444,
-        "weeklyPushes": 0,
-        "totalStars": 39017,
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-        "intro": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "topics": [
-          "agent",
-          "ai",
-          "claude",
-          "claude-code",
-          "codex",
-          "coding",
-          "design",
-          "frontend",
-          "lowcode",
-          "nocode",
-          "skill",
-          "skills",
-          "vibecoding"
-        ],
-        "language": "Shell",
-        "source": "star-history.com",
-        "dailyStars": 405,
-        "dailyScannedPages": 5,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1668,7 +1637,7 @@
         "starHistory": "https://www.star-history.com/phuryn/pm-skills",
         "weeklyStars": 47,
         "weeklyPushes": 2,
-        "totalStars": 13096,
+        "totalStars": 13813,
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "intro": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "topics": [
@@ -1682,10 +1651,46 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 239,
-        "dailyScannedPages": 3,
+        "dailyStars": 324,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "skill",
+        "name": "blader/humanizer",
+        "github": "https://github.com/blader/humanizer",
+        "starHistory": "https://www.star-history.com/blader/humanizer",
+        "weeklyStars": 54,
+        "weeklyPushes": 0,
+        "totalStars": 23317,
+        "description": "Claude Code skill that removes signs of AI-generated writing from text",
+        "intro": "Claude Code skill that removes signs of AI-generated writing from text",
+        "topics": [],
+        "language": "",
+        "source": "star-history.com",
+        "dailyStars": 188,
+        "dailyScannedPages": 2,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "skill",
+        "name": "vercel-labs/skills",
+        "github": "https://github.com/vercel-labs/skills",
+        "starHistory": "https://www.star-history.com/vercel-labs/skills",
+        "weeklyStars": 33,
+        "weeklyPushes": 7,
+        "totalStars": 21916,
+        "description": "The open agent skills tool - npx skills",
+        "intro": "The open agent skills tool - npx skills",
+        "topics": [],
+        "language": "TypeScript",
+        "source": "star-history.com",
+        "dailyStars": 125,
+        "dailyScannedPages": 2,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1694,7 +1699,7 @@
         "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
         "weeklyStars": 48,
         "weeklyPushes": 3,
-        "totalStars": 35019,
+        "totalStars": 35148,
         "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "topics": [
@@ -1717,10 +1722,10 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 121,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1729,7 +1734,7 @@
         "starHistory": "https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep",
         "weeklyStars": 25,
         "weeklyPushes": 1,
-        "totalStars": 11747,
+        "totalStars": 11844,
         "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
         "intro": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework...",
         "topics": [
@@ -1756,10 +1761,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 102,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1768,7 +1773,7 @@
         "starHistory": "https://www.star-history.com/VoltAgent/awesome-agent-skills",
         "weeklyStars": 33,
         "weeklyPushes": 1,
-        "totalStars": 24745,
+        "totalStars": 24862,
         "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
         "intro": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
         "topics": [
@@ -1789,88 +1794,49 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 96,
+        "dailyStars": 70,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
-        "name": "anthropics/claude-plugins-official",
-        "github": "https://github.com/anthropics/claude-plugins-official",
-        "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
-        "weeklyStars": 27,
-        "weeklyPushes": 173,
-        "totalStars": 29703,
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "topics": [
-          "claude-code",
-          "mcp",
-          "skills"
-        ],
+        "name": "titanwings/colleague-skill",
+        "github": "https://github.com/titanwings/colleague-skill",
+        "starHistory": "https://www.star-history.com/titanwings/colleague-skill",
+        "weeklyStars": 13,
+        "weeklyPushes": 0,
+        "totalStars": 19223,
+        "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+        "intro": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+        "topics": [],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 93,
-        "dailyScannedPages": 2,
+        "dailyStars": 55,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
-        "name": "microsoft/mcp-for-beginners",
-        "github": "https://github.com/microsoft/mcp-for-beginners",
-        "starHistory": "https://www.star-history.com/microsoft/mcp-for-beginners",
-        "weeklyStars": 2,
-        "weeklyPushes": 18,
-        "totalStars": 16424,
-        "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-        "intro": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a...",
-        "topics": [
-          "csharp",
-          "java",
-          "javascript",
-          "javascript-applications",
-          "mcp",
-          "mcp-client",
-          "mcp-security",
-          "mcp-server",
-          "model",
-          "model-context-protocol",
-          "modelcontextprotocol",
-          "python",
-          "rust",
-          "typescript"
-        ],
-        "language": "Jupyter Notebook",
-        "source": "star-history.com",
-        "dailyStars": 64,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "skill",
-        "name": "tanweai/pua",
-        "github": "https://github.com/tanweai/pua",
-        "starHistory": "https://www.star-history.com/tanweai/pua",
-        "weeklyStars": 6,
+        "name": "microsoft/playwright-mcp",
+        "github": "https://github.com/microsoft/playwright-mcp",
+        "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
+        "weeklyStars": 16,
         "weeklyPushes": 0,
-        "totalStars": 18061,
-        "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
-        "intro": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.",
+        "totalStars": 33723,
+        "description": "Playwright MCP server",
+        "intro": "Playwright MCP server",
         "topics": [
-          "agency",
-          "agent",
-          "pip",
-          "pua"
+          "mcp",
+          "playwright"
         ],
         "language": "TypeScript",
         "source": "star-history.com",
-        "dailyStars": 62,
+        "dailyStars": 54,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ],
     "dailySkills": [
@@ -1881,7 +1847,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 435,
         "weeklyPushes": 0,
-        "totalStars": 35906,
+        "totalStars": 38550,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -1908,42 +1874,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 939,
-        "dailyScannedPages": 10,
+        "dailyStars": 791,
+        "dailyScannedPages": 8,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "skill",
-        "name": "Leonxlnx/taste-skill",
-        "github": "https://github.com/Leonxlnx/taste-skill",
-        "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
-        "weeklyStars": 444,
-        "weeklyPushes": 0,
-        "totalStars": 39017,
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-        "intro": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "topics": [
-          "agent",
-          "ai",
-          "claude",
-          "claude-code",
-          "codex",
-          "coding",
-          "design",
-          "frontend",
-          "lowcode",
-          "nocode",
-          "skill",
-          "skills",
-          "vibecoding"
-        ],
-        "language": "Shell",
-        "source": "star-history.com",
-        "dailyStars": 405,
-        "dailyScannedPages": 5,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1952,7 +1886,7 @@
         "starHistory": "https://www.star-history.com/phuryn/pm-skills",
         "weeklyStars": 47,
         "weeklyPushes": 2,
-        "totalStars": 13096,
+        "totalStars": 13813,
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "intro": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "topics": [
@@ -1966,10 +1900,46 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 239,
-        "dailyScannedPages": 3,
+        "dailyStars": 324,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "skill",
+        "name": "blader/humanizer",
+        "github": "https://github.com/blader/humanizer",
+        "starHistory": "https://www.star-history.com/blader/humanizer",
+        "weeklyStars": 54,
+        "weeklyPushes": 0,
+        "totalStars": 23317,
+        "description": "Claude Code skill that removes signs of AI-generated writing from text",
+        "intro": "Claude Code skill that removes signs of AI-generated writing from text",
+        "topics": [],
+        "language": "",
+        "source": "star-history.com",
+        "dailyStars": 188,
+        "dailyScannedPages": 2,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "skill",
+        "name": "vercel-labs/skills",
+        "github": "https://github.com/vercel-labs/skills",
+        "starHistory": "https://www.star-history.com/vercel-labs/skills",
+        "weeklyStars": 33,
+        "weeklyPushes": 7,
+        "totalStars": 21916,
+        "description": "The open agent skills tool - npx skills",
+        "intro": "The open agent skills tool - npx skills",
+        "topics": [],
+        "language": "TypeScript",
+        "source": "star-history.com",
+        "dailyStars": 125,
+        "dailyScannedPages": 2,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -1978,7 +1948,7 @@
         "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
         "weeklyStars": 48,
         "weeklyPushes": 3,
-        "totalStars": 35019,
+        "totalStars": 35148,
         "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "topics": [
@@ -2001,10 +1971,10 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 121,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2013,7 +1983,7 @@
         "starHistory": "https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep",
         "weeklyStars": 25,
         "weeklyPushes": 1,
-        "totalStars": 11747,
+        "totalStars": 11844,
         "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
         "intro": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework...",
         "topics": [
@@ -2040,10 +2010,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 102,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2052,7 +2022,7 @@
         "starHistory": "https://www.star-history.com/VoltAgent/awesome-agent-skills",
         "weeklyStars": 33,
         "weeklyPushes": 1,
-        "totalStars": 24745,
+        "totalStars": 24862,
         "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
         "intro": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
         "topics": [
@@ -2073,10 +2043,28 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 96,
+        "dailyStars": 70,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "skill",
+        "name": "titanwings/colleague-skill",
+        "github": "https://github.com/titanwings/colleague-skill",
+        "starHistory": "https://www.star-history.com/titanwings/colleague-skill",
+        "weeklyStars": 13,
+        "weeklyPushes": 0,
+        "totalStars": 19223,
+        "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+        "intro": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+        "topics": [],
+        "language": "Python",
+        "source": "star-history.com",
+        "dailyStars": 55,
+        "dailyScannedPages": 1,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2085,7 +2073,7 @@
         "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
         "weeklyStars": 27,
         "weeklyPushes": 173,
-        "totalStars": 29703,
+        "totalStars": 29792,
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "topics": [
@@ -2095,33 +2083,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 93,
-        "dailyScannedPages": 2,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "skill",
-        "name": "tanweai/pua",
-        "github": "https://github.com/tanweai/pua",
-        "starHistory": "https://www.star-history.com/tanweai/pua",
-        "weeklyStars": 6,
-        "weeklyPushes": 0,
-        "totalStars": 18061,
-        "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
-        "intro": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.",
-        "topics": [
-          "agency",
-          "agent",
-          "pip",
-          "pua"
-        ],
-        "language": "TypeScript",
-        "source": "star-history.com",
-        "dailyStars": 62,
+        "dailyStars": 39,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2130,75 +2095,36 @@
         "starHistory": "https://www.star-history.com/OthmanAdi/planning-with-files",
         "weeklyStars": 24,
         "weeklyPushes": 0,
-        "totalStars": 22932,
-        "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
-        "intro": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+        "totalStars": 22989,
+        "description": "Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, Hermes agent, Pi, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "intro": "Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Cod...",
         "topics": [
-          "adal",
           "agent-skills",
-          "antigravity",
+          "agentic-workflows",
+          "ai-agents",
+          "autonomous-agents",
           "claude",
           "claude-code",
           "claude-skills",
+          "codex",
           "copilot",
           "copilot-skills",
+          "cursor",
           "hermes",
           "hermes-agent",
           "hermes-skill",
-          "kilocode",
           "manus",
-          "mastra",
-          "openclaw",
-          "openclaw-skills",
+          "multi-agent-systems",
           "pi",
           "pi-agent",
           "planning"
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 61,
+        "dailyStars": 38,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "skill",
-        "name": "alirezarezvani/claude-skills",
-        "github": "https://github.com/alirezarezvani/claude-skills",
-        "starHistory": "https://www.star-history.com/alirezarezvani/claude-skills",
-        "weeklyStars": 22,
-        "weeklyPushes": 6,
-        "totalStars": 17572,
-        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-        "intro": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8...",
-        "topics": [
-          "agent-plugins",
-          "agent-skills",
-          "agentic-ai",
-          "ai-coding-agent",
-          "anthropic-claude",
-          "claude-ai",
-          "claude-code",
-          "claude-code-plugins",
-          "claude-code-skills",
-          "claude-skills",
-          "codex-skills",
-          "coding-agent-plugins",
-          "cursor-skills",
-          "developer-tools",
-          "gemini-cli-skills",
-          "openai-codex",
-          "openclaw",
-          "openclaw-plugins",
-          "openclaw-skills",
-          "prompt-engineering"
-        ],
-        "language": "Python",
-        "source": "star-history.com",
-        "dailyStars": 60,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ],
     "dailyMcp": [
@@ -2209,7 +2135,7 @@
         "starHistory": "https://www.star-history.com/chopratejas/headroom",
         "weeklyStars": 579,
         "weeklyPushes": 36,
-        "totalStars": 19603,
+        "totalStars": 21161,
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "intro": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "topics": [
@@ -2236,43 +2162,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 541,
-        "dailyScannedPages": 6,
+        "dailyStars": 386,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "mcp",
-        "name": "microsoft/mcp-for-beginners",
-        "github": "https://github.com/microsoft/mcp-for-beginners",
-        "starHistory": "https://www.star-history.com/microsoft/mcp-for-beginners",
-        "weeklyStars": 2,
-        "weeklyPushes": 18,
-        "totalStars": 16424,
-        "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-        "intro": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a...",
-        "topics": [
-          "csharp",
-          "java",
-          "javascript",
-          "javascript-applications",
-          "mcp",
-          "mcp-client",
-          "mcp-security",
-          "mcp-server",
-          "model",
-          "model-context-protocol",
-          "modelcontextprotocol",
-          "python",
-          "rust",
-          "typescript"
-        ],
-        "language": "Jupyter Notebook",
-        "source": "star-history.com",
-        "dailyStars": 64,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -2281,7 +2174,7 @@
         "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
         "weeklyStars": 16,
         "weeklyPushes": 0,
-        "totalStars": 33674,
+        "totalStars": 33723,
         "description": "Playwright MCP server",
         "intro": "Playwright MCP server",
         "topics": [
@@ -2290,10 +2183,10 @@
         ],
         "language": "TypeScript",
         "source": "star-history.com",
-        "dailyStars": 45,
+        "dailyStars": 54,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -2302,16 +2195,16 @@
         "starHistory": "https://www.star-history.com/ahujasid/blender-mcp",
         "weeklyStars": 12,
         "weeklyPushes": 2,
-        "totalStars": 22506,
+        "totalStars": 22546,
         "description": "",
         "intro": "No repository description provided.",
         "topics": [],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 40,
-        "dailyScannedPages": 2,
+        "dailyStars": 43,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -2320,7 +2213,7 @@
         "starHistory": "https://www.star-history.com/0x4m4/hexstrike-ai",
         "weeklyStars": 18,
         "weeklyPushes": 0,
-        "totalStars": 9449,
+        "totalStars": 9478,
         "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
         "intro": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil...",
         "topics": [
@@ -2347,83 +2240,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 29,
+        "dailyStars": 32,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "mcp",
-        "name": "github/github-mcp-server",
-        "github": "https://github.com/github/github-mcp-server",
-        "starHistory": "https://www.star-history.com/github/github-mcp-server",
-        "weeklyStars": 6,
-        "weeklyPushes": 7,
-        "totalStars": 30533,
-        "description": "GitHub's official MCP Server",
-        "intro": "GitHub's official MCP Server",
-        "topics": [
-          "github",
-          "mcp",
-          "mcp-server"
-        ],
-        "language": "Go",
-        "source": "star-history.com",
-        "dailyStars": 28,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "mcp",
-        "name": "mrexodia/ida-pro-mcp",
-        "github": "https://github.com/mrexodia/ida-pro-mcp",
-        "starHistory": "https://www.star-history.com/mrexodia/ida-pro-mcp",
-        "weeklyStars": 6,
-        "weeklyPushes": 5,
-        "totalStars": 9234,
-        "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
-        "intro": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
-        "topics": [
-          "ai",
-          "aiagent",
-          "binary-analysis",
-          "ida-plugin",
-          "ida-pro",
-          "mcp",
-          "mcp-server",
-          "modelcontextprotocol",
-          "reverse-engineering"
-        ],
-        "language": "Python",
-        "source": "star-history.com",
-        "dailyStars": 27,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
-      },
-      {
-        "kind": "mcp",
-        "name": "czlonkowski/n8n-mcp",
-        "github": "https://github.com/czlonkowski/n8n-mcp",
-        "starHistory": "https://www.star-history.com/czlonkowski/n8n-mcp",
-        "weeklyStars": 17,
-        "weeklyPushes": 3,
-        "totalStars": 21633,
-        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
-        "intro": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-        "topics": [
-          "mcp",
-          "mcp-server",
-          "n8n",
-          "workflows"
-        ],
-        "language": "TypeScript",
-        "source": "star-history.com",
-        "dailyStars": 24,
-        "dailyScannedPages": 1,
-        "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -2432,7 +2252,7 @@
         "starHistory": "https://www.star-history.com/googleapis/mcp-toolbox",
         "weeklyStars": 1,
         "weeklyPushes": 58,
-        "totalStars": 15528,
+        "totalStars": 15558,
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "intro": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "topics": [
@@ -2459,10 +2279,116 @@
         ],
         "language": "Go",
         "source": "star-history.com",
-        "dailyStars": 24,
+        "dailyStars": 30,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "mcp",
+        "name": "github/github-mcp-server",
+        "github": "https://github.com/github/github-mcp-server",
+        "starHistory": "https://www.star-history.com/github/github-mcp-server",
+        "weeklyStars": 6,
+        "weeklyPushes": 7,
+        "totalStars": 30555,
+        "description": "GitHub's official MCP Server",
+        "intro": "GitHub's official MCP Server",
+        "topics": [
+          "github",
+          "mcp",
+          "mcp-server"
+        ],
+        "language": "Go",
+        "source": "star-history.com",
+        "dailyStars": 29,
+        "dailyScannedPages": 1,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "mcp",
+        "name": "mrexodia/ida-pro-mcp",
+        "github": "https://github.com/mrexodia/ida-pro-mcp",
+        "starHistory": "https://www.star-history.com/mrexodia/ida-pro-mcp",
+        "weeklyStars": 6,
+        "weeklyPushes": 5,
+        "totalStars": 9263,
+        "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+        "intro": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+        "topics": [
+          "ai",
+          "aiagent",
+          "binary-analysis",
+          "ida-plugin",
+          "ida-pro",
+          "mcp",
+          "mcp-server",
+          "modelcontextprotocol",
+          "reverse-engineering"
+        ],
+        "language": "Python",
+        "source": "star-history.com",
+        "dailyStars": 28,
+        "dailyScannedPages": 1,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "mcp",
+        "name": "czlonkowski/n8n-mcp",
+        "github": "https://github.com/czlonkowski/n8n-mcp",
+        "starHistory": "https://www.star-history.com/czlonkowski/n8n-mcp",
+        "weeklyStars": 17,
+        "weeklyPushes": 3,
+        "totalStars": 21652,
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+        "intro": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "topics": [
+          "mcp",
+          "mcp-server",
+          "n8n",
+          "workflows"
+        ],
+        "language": "TypeScript",
+        "source": "star-history.com",
+        "dailyStars": 23,
+        "dailyScannedPages": 1,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
+      },
+      {
+        "kind": "mcp",
+        "name": "microsoft/mcp-for-beginners",
+        "github": "https://github.com/microsoft/mcp-for-beginners",
+        "starHistory": "https://www.star-history.com/microsoft/mcp-for-beginners",
+        "weeklyStars": 2,
+        "weeklyPushes": 18,
+        "totalStars": 16478,
+        "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+        "intro": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a...",
+        "topics": [
+          "csharp",
+          "java",
+          "javascript",
+          "javascript-applications",
+          "mcp",
+          "mcp-client",
+          "mcp-security",
+          "mcp-server",
+          "model",
+          "model-context-protocol",
+          "modelcontextprotocol",
+          "python",
+          "rust",
+          "typescript"
+        ],
+        "language": "Jupyter Notebook",
+        "source": "star-history.com",
+        "dailyStars": 22,
+        "dailyScannedPages": 1,
+        "dailySource": "github.com stargazers API",
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -2471,7 +2397,7 @@
         "starHistory": "https://www.star-history.com/xpzouying/xiaohongshu-mcp",
         "weeklyStars": 7,
         "weeklyPushes": 1,
-        "totalStars": 14064,
+        "totalStars": 14082,
         "description": "MCP for xiaohongshu.com",
         "intro": "MCP for xiaohongshu.com",
         "topics": [
@@ -2481,10 +2407,10 @@
         ],
         "language": "Go",
         "source": "star-history.com",
-        "dailyStars": 20,
+        "dailyStars": 21,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ],
     "weeklyOverall": [
@@ -2495,7 +2421,7 @@
         "starHistory": "https://www.star-history.com/chopratejas/headroom",
         "weeklyStars": 579,
         "weeklyPushes": 36,
-        "totalStars": 19603,
+        "totalStars": 21161,
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "intro": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "topics": [
@@ -2522,10 +2448,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 541,
-        "dailyScannedPages": 6,
+        "dailyStars": 386,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2534,7 +2460,7 @@
         "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
         "weeklyStars": 444,
         "weeklyPushes": 0,
-        "totalStars": 39017,
+        "totalStars": 40059,
         "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
         "intro": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
         "topics": [
@@ -2554,10 +2480,11 @@
         ],
         "language": "Shell",
         "source": "star-history.com",
-        "dailyStars": 405,
-        "dailyScannedPages": 5,
+        "dailyStars": null,
+        "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=401: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2566,7 +2493,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 435,
         "weeklyPushes": 0,
-        "totalStars": 35906,
+        "totalStars": 38550,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -2593,10 +2520,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 939,
-        "dailyScannedPages": 10,
+        "dailyStars": 791,
+        "dailyScannedPages": 8,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2605,7 +2532,7 @@
         "starHistory": "https://www.star-history.com/affaan-m/ECC",
         "weeklyStars": 345,
         "weeklyPushes": 32,
-        "totalStars": 211336,
+        "totalStars": 212262,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "topics": [
@@ -2623,8 +2550,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2114: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2123: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2633,7 +2560,7 @@
         "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "weeklyStars": 141,
         "weeklyPushes": 0,
-        "totalStars": 89176,
+        "totalStars": 89658,
         "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
         "intro": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
         "topics": [
@@ -2662,8 +2589,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=892: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=897: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2672,7 +2599,7 @@
         "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
         "weeklyStars": 113,
         "weeklyPushes": 0,
-        "totalStars": 70354,
+        "totalStars": 70812,
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "intro": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "topics": [
@@ -2692,8 +2619,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=704: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=709: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2702,7 +2629,7 @@
         "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
         "weeklyStars": 90,
         "weeklyPushes": 4,
-        "totalStars": 49449,
+        "totalStars": 50108,
         "description": "Production-grade engineering skills for AI coding agents.",
         "intro": "Production-grade engineering skills for AI coding agents.",
         "topics": [
@@ -2718,8 +2645,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=495: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=502: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2728,16 +2655,16 @@
         "starHistory": "https://www.star-history.com/blader/humanizer",
         "weeklyStars": 54,
         "weeklyPushes": 0,
-        "totalStars": 23099,
+        "totalStars": 23317,
         "description": "Claude Code skill that removes signs of AI-generated writing from text",
         "intro": "Claude Code skill that removes signs of AI-generated writing from text",
         "topics": [],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 59,
-        "dailyScannedPages": 1,
+        "dailyStars": 188,
+        "dailyScannedPages": 2,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2746,7 +2673,7 @@
         "starHistory": "https://www.star-history.com/ComposioHQ/awesome-claude-skills",
         "weeklyStars": 49,
         "weeklyPushes": 0,
-        "totalStars": 63838,
+        "totalStars": 63983,
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "intro": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "topics": [
@@ -2773,8 +2700,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=639: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=640: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2783,7 +2710,7 @@
         "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
         "weeklyStars": 48,
         "weeklyPushes": 3,
-        "totalStars": 35019,
+        "totalStars": 35148,
         "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "topics": [
@@ -2806,10 +2733,10 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 121,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ],
     "weeklySkills": [
@@ -2820,7 +2747,7 @@
         "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
         "weeklyStars": 444,
         "weeklyPushes": 0,
-        "totalStars": 39017,
+        "totalStars": 40059,
         "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
         "intro": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
         "topics": [
@@ -2840,10 +2767,11 @@
         ],
         "language": "Shell",
         "source": "star-history.com",
-        "dailyStars": 405,
-        "dailyScannedPages": 5,
+        "dailyStars": null,
+        "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=401: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2852,7 +2780,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 435,
         "weeklyPushes": 0,
-        "totalStars": 35906,
+        "totalStars": 38550,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -2879,10 +2807,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 939,
-        "dailyScannedPages": 10,
+        "dailyStars": 791,
+        "dailyScannedPages": 8,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -2891,7 +2819,7 @@
         "starHistory": "https://www.star-history.com/affaan-m/ECC",
         "weeklyStars": 345,
         "weeklyPushes": 32,
-        "totalStars": 211336,
+        "totalStars": 212262,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "topics": [
@@ -2909,8 +2837,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2114: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2123: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2919,7 +2847,7 @@
         "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "weeklyStars": 141,
         "weeklyPushes": 0,
-        "totalStars": 89176,
+        "totalStars": 89658,
         "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
         "intro": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
         "topics": [
@@ -2948,8 +2876,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=892: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=897: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2958,7 +2886,7 @@
         "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
         "weeklyStars": 113,
         "weeklyPushes": 0,
-        "totalStars": 70354,
+        "totalStars": 70812,
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "intro": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "topics": [
@@ -2978,8 +2906,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=704: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=709: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -2988,7 +2916,7 @@
         "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
         "weeklyStars": 90,
         "weeklyPushes": 4,
-        "totalStars": 49449,
+        "totalStars": 50108,
         "description": "Production-grade engineering skills for AI coding agents.",
         "intro": "Production-grade engineering skills for AI coding agents.",
         "topics": [
@@ -3004,8 +2932,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=495: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=502: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -3014,16 +2942,16 @@
         "starHistory": "https://www.star-history.com/blader/humanizer",
         "weeklyStars": 54,
         "weeklyPushes": 0,
-        "totalStars": 23099,
+        "totalStars": 23317,
         "description": "Claude Code skill that removes signs of AI-generated writing from text",
         "intro": "Claude Code skill that removes signs of AI-generated writing from text",
         "topics": [],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 59,
-        "dailyScannedPages": 1,
+        "dailyStars": 188,
+        "dailyScannedPages": 2,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -3032,7 +2960,7 @@
         "starHistory": "https://www.star-history.com/ComposioHQ/awesome-claude-skills",
         "weeklyStars": 49,
         "weeklyPushes": 0,
-        "totalStars": 63838,
+        "totalStars": 63983,
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "intro": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "topics": [
@@ -3059,8 +2987,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=639: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=640: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "skill",
@@ -3069,7 +2997,7 @@
         "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
         "weeklyStars": 48,
         "weeklyPushes": 3,
-        "totalStars": 35019,
+        "totalStars": 35148,
         "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
         "topics": [
@@ -3092,10 +3020,10 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 121,
-        "dailyScannedPages": 2,
+        "dailyStars": 92,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "skill",
@@ -3104,7 +3032,7 @@
         "starHistory": "https://www.star-history.com/phuryn/pm-skills",
         "weeklyStars": 47,
         "weeklyPushes": 2,
-        "totalStars": 13096,
+        "totalStars": 13813,
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "intro": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "topics": [
@@ -3118,10 +3046,10 @@
         ],
         "language": "",
         "source": "star-history.com",
-        "dailyStars": 239,
-        "dailyScannedPages": 3,
+        "dailyStars": 324,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ],
     "weeklyMcp": [
@@ -3132,7 +3060,7 @@
         "starHistory": "https://www.star-history.com/chopratejas/headroom",
         "weeklyStars": 579,
         "weeklyPushes": 36,
-        "totalStars": 19603,
+        "totalStars": 21161,
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "intro": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "topics": [
@@ -3159,10 +3087,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 541,
-        "dailyScannedPages": 6,
+        "dailyStars": 386,
+        "dailyScannedPages": 4,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3171,7 +3099,7 @@
         "starHistory": "https://www.star-history.com/punkpeye/awesome-mcp-servers",
         "weeklyStars": 23,
         "weeklyPushes": 60,
-        "totalStars": 88748,
+        "totalStars": 88793,
         "description": "A collection of MCP servers.",
         "intro": "A collection of MCP servers.",
         "topics": [
@@ -3183,7 +3111,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
+        "dailySince": "2026-06-10T05:09:21.240Z",
         "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/punkpeye/awesome-mcp-servers/stargazers?per_page=100&page=888: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
@@ -3193,7 +3121,7 @@
         "starHistory": "https://www.star-history.com/ChromeDevTools/chrome-devtools-mcp",
         "weeklyStars": 20,
         "weeklyPushes": 17,
-        "totalStars": 43166,
+        "totalStars": 43258,
         "description": "Chrome DevTools for coding agents",
         "intro": "Chrome DevTools for coding agents",
         "topics": [
@@ -3211,8 +3139,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
-        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=432: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
+        "dailySince": "2026-06-10T05:09:21.240Z",
+        "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=433: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
         "kind": "mcp",
@@ -3221,7 +3149,7 @@
         "starHistory": "https://www.star-history.com/0x4m4/hexstrike-ai",
         "weeklyStars": 18,
         "weeklyPushes": 0,
-        "totalStars": 9449,
+        "totalStars": 9478,
         "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
         "intro": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil...",
         "topics": [
@@ -3248,10 +3176,10 @@
         ],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 29,
+        "dailyStars": 32,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3260,7 +3188,7 @@
         "starHistory": "https://www.star-history.com/czlonkowski/n8n-mcp",
         "weeklyStars": 17,
         "weeklyPushes": 3,
-        "totalStars": 21633,
+        "totalStars": 21652,
         "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
         "intro": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
         "topics": [
@@ -3271,10 +3199,10 @@
         ],
         "language": "TypeScript",
         "source": "star-history.com",
-        "dailyStars": 24,
+        "dailyStars": 23,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3283,7 +3211,7 @@
         "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
         "weeklyStars": 16,
         "weeklyPushes": 0,
-        "totalStars": 33674,
+        "totalStars": 33723,
         "description": "Playwright MCP server",
         "intro": "Playwright MCP server",
         "topics": [
@@ -3292,10 +3220,10 @@
         ],
         "language": "TypeScript",
         "source": "star-history.com",
-        "dailyStars": 45,
+        "dailyStars": 54,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3304,16 +3232,16 @@
         "starHistory": "https://www.star-history.com/ahujasid/blender-mcp",
         "weeklyStars": 12,
         "weeklyPushes": 2,
-        "totalStars": 22506,
+        "totalStars": 22546,
         "description": "",
         "intro": "No repository description provided.",
         "topics": [],
         "language": "Python",
         "source": "star-history.com",
-        "dailyStars": 40,
-        "dailyScannedPages": 2,
+        "dailyStars": 43,
+        "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3322,7 +3250,7 @@
         "starHistory": "https://www.star-history.com/modelcontextprotocol/servers",
         "weeklyStars": 11,
         "weeklyPushes": 3,
-        "totalStars": 86948,
+        "totalStars": 86999,
         "description": "Model Context Protocol Servers",
         "intro": "Model Context Protocol Servers",
         "topics": [],
@@ -3331,7 +3259,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z",
+        "dailySince": "2026-06-10T05:09:21.240Z",
         "dailyError": "422 Unprocessable Entity for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=870: {\"message\":\"In order to keep the API fast for everyone, pagination is limited for this resource.\",\"documentation_url\":\"https://docs.github.com/v3/#pagination\",\"status\":\"422\"}"
       },
       {
@@ -3341,7 +3269,7 @@
         "starHistory": "https://www.star-history.com/xpzouying/xiaohongshu-mcp",
         "weeklyStars": 7,
         "weeklyPushes": 1,
-        "totalStars": 14064,
+        "totalStars": 14082,
         "description": "MCP for xiaohongshu.com",
         "intro": "MCP for xiaohongshu.com",
         "topics": [
@@ -3351,10 +3279,10 @@
         ],
         "language": "Go",
         "source": "star-history.com",
-        "dailyStars": 20,
+        "dailyStars": 21,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       },
       {
         "kind": "mcp",
@@ -3363,7 +3291,7 @@
         "starHistory": "https://www.star-history.com/github/github-mcp-server",
         "weeklyStars": 6,
         "weeklyPushes": 7,
-        "totalStars": 30533,
+        "totalStars": 30555,
         "description": "GitHub's official MCP Server",
         "intro": "GitHub's official MCP Server",
         "topics": [
@@ -3373,10 +3301,10 @@
         ],
         "language": "Go",
         "source": "star-history.com",
-        "dailyStars": 28,
+        "dailyStars": 29,
         "dailyScannedPages": 1,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-06-09T04:57:27.914Z"
+        "dailySince": "2026-06-10T05:09:21.240Z"
       }
     ]
   }
