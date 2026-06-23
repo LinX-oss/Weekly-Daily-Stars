@@ -1,7 +1,7 @@
 # Daily GitHub Stars: Skills and MCP
 
-Generated at: 2026-06-22T05:40:59.284Z
-Window: 2026-06-21T05:40:59.284Z to 2026-06-22T05:40:59.284Z.
+Generated at: 2026-06-23T04:40:25.471Z
+Window: 2026-06-22T04:40:25.471Z to 2026-06-23T04:40:25.471Z.
 Source: GitHub stargazers API, counted from generatedAt minus 24 hours.
 Intro: repository metadata description, shortened for table display.
 
@@ -9,45 +9,45 @@ Intro: repository metadata description, shortened for table display.
 
 | Rank | Type | Repo | New stars in last 24h | Total stars | Intro | Star History |
 |---:|---|---|---:|---:|---|---|
-| 1 | skill | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 76 | 30,526 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | [source](https://www.star-history.com/anthropics/claude-plugins-official) |
-| 2 | skill | [blader/humanizer](https://github.com/blader/humanizer) | 70 | 25,267 | Claude Code skill that removes signs of AI-generated writing from text | [source](https://www.star-history.com/blader/humanizer) |
-| 3 | skill | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 64 | 20,198 | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. | [source](https://www.star-history.com/phuryn/pm-skills) |
-| 4 | skill | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 61 | 18,651 | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8... | [source](https://www.star-history.com/alirezarezvani/claude-skills) |
-| 5 | skill | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 60 | 23,070 | The open agent skills tool - npx skills | [source](https://www.star-history.com/vercel-labs/skills) |
-| 6 | skill | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 48 | 12,406 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework... | [source](https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
-| 7 | skill | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 47 | 36,282 | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | [source](https://www.star-history.com/kepano/obsidian-skills) |
-| 8 | mcp | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 40 | 34,155 | Playwright MCP server | [source](https://www.star-history.com/microsoft/playwright-mcp) |
-| 9 | skill | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 33 | 25,981 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. | [source](https://www.star-history.com/VoltAgent/awesome-agent-skills) |
-| 10 | mcp | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 31 | 9,534 | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | [source](https://www.star-history.com/mrexodia/ida-pro-mcp) |
+| 1 | skill | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 53 | 12,406 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework... | [source](https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
+| 2 | skill | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 38 | 19,639 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | [source](https://www.star-history.com/titanwings/colleague-skill) |
+| 3 | mcp | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 29 | 30,852 | GitHub's official MCP Server | [source](https://www.star-history.com/github/github-mcp-server) |
+| 4 | mcp | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 29 | 9,534 | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | [source](https://www.star-history.com/mrexodia/ida-pro-mcp) |
+| 5 | mcp | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 23 | 14,265 | MCP for xiaohongshu.com | [source](https://www.star-history.com/xpzouying/xiaohongshu-mcp) |
+| 6 | skill | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 21 | 30,526 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | [source](https://www.star-history.com/anthropics/claude-plugins-official) |
+| 7 | mcp | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 20 | 34,155 | Playwright MCP server | [source](https://www.star-history.com/microsoft/playwright-mcp) |
+| 8 | mcp | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | 17 | 15,170 | MCP server to provide Figma layout information to AI coding agents like Cursor | [source](https://www.star-history.com/GLips/Figma-Context-MCP) |
+| 9 | mcp | [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | 15 | 10,142 | Visual testing tool for MCP servers | [source](https://www.star-history.com/modelcontextprotocol/inspector) |
+| 10 | mcp | [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 14 | 25,730 | 🚀 The fast, Pythonic way to build MCP servers and clients. | [source](https://www.star-history.com/PrefectHQ/fastmcp) |
 
 ## Skill Top 10
 
 | Rank | Type | Repo | New stars in last 24h | Total stars | Intro | Star History |
 |---:|---|---|---:|---:|---|---|
-| 1 | skill | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 76 | 30,526 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | [source](https://www.star-history.com/anthropics/claude-plugins-official) |
-| 2 | skill | [blader/humanizer](https://github.com/blader/humanizer) | 70 | 25,267 | Claude Code skill that removes signs of AI-generated writing from text | [source](https://www.star-history.com/blader/humanizer) |
-| 3 | skill | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 64 | 20,198 | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. | [source](https://www.star-history.com/phuryn/pm-skills) |
-| 4 | skill | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 61 | 18,651 | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8... | [source](https://www.star-history.com/alirezarezvani/claude-skills) |
-| 5 | skill | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 60 | 23,070 | The open agent skills tool - npx skills | [source](https://www.star-history.com/vercel-labs/skills) |
-| 6 | skill | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 48 | 12,406 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework... | [source](https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
-| 7 | skill | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 47 | 36,282 | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | [source](https://www.star-history.com/kepano/obsidian-skills) |
-| 8 | skill | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 33 | 25,981 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. | [source](https://www.star-history.com/VoltAgent/awesome-agent-skills) |
-| 9 | skill | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 24 | 23,694 | Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic complet... | [source](https://www.star-history.com/OthmanAdi/planning-with-files) |
-| 10 | skill | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 24 | 19,639 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | [source](https://www.star-history.com/titanwings/colleague-skill) |
+| 1 | skill | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 53 | 12,406 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework... | [source](https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
+| 2 | skill | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 38 | 19,639 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | [source](https://www.star-history.com/titanwings/colleague-skill) |
+| 3 | skill | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 21 | 30,526 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | [source](https://www.star-history.com/anthropics/claude-plugins-official) |
+| 4 | skill | [tanweai/pua](https://github.com/tanweai/pua) | 11 | 18,367 | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | [source](https://www.star-history.com/tanweai/pua) |
+| 5 | skill | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 0 | 36,282 | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | [source](https://www.star-history.com/kepano/obsidian-skills) |
+| 6 | skill | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 0 | 25,981 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. | [source](https://www.star-history.com/VoltAgent/awesome-agent-skills) |
+| 7 | skill | [blader/humanizer](https://github.com/blader/humanizer) | 0 | 25,267 | Claude Code skill that removes signs of AI-generated writing from text | [source](https://www.star-history.com/blader/humanizer) |
+| 8 | skill | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 0 | 23,694 | Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic complet... | [source](https://www.star-history.com/OthmanAdi/planning-with-files) |
+| 9 | skill | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 0 | 23,070 | The open agent skills tool - npx skills | [source](https://www.star-history.com/vercel-labs/skills) |
+| 10 | skill | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 0 | 20,198 | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. | [source](https://www.star-history.com/phuryn/pm-skills) |
 
 ## MCP Top 10
 
 | Rank | Type | Repo | New stars in last 24h | Total stars | Intro | Star History |
 |---:|---|---|---:|---:|---|---|
-| 1 | mcp | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 40 | 34,155 | Playwright MCP server | [source](https://www.star-history.com/microsoft/playwright-mcp) |
-| 2 | mcp | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 31 | 9,534 | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | [source](https://www.star-history.com/mrexodia/ida-pro-mcp) |
-| 3 | mcp | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 22 | 30,852 | GitHub's official MCP Server | [source](https://www.star-history.com/github/github-mcp-server) |
-| 4 | mcp | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 21 | 22,990 | Open-source MCP to use Blender with any LLM | [source](https://www.star-history.com/ahujasid/blender-mcp) |
-| 5 | mcp | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 20 | 9,785 | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil... | [source](https://www.star-history.com/0x4m4/hexstrike-ai) |
-| 6 | mcp | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 19 | 14,265 | MCP for xiaohongshu.com | [source](https://www.star-history.com/xpzouying/xiaohongshu-mcp) |
-| 7 | mcp | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 16 | 21,887 | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | [source](https://www.star-history.com/czlonkowski/n8n-mcp) |
-| 8 | mcp | [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 13 | 25,730 | 🚀 The fast, Pythonic way to build MCP servers and clients. | [source](https://www.star-history.com/PrefectHQ/fastmcp) |
-| 9 | mcp | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 13 | 23,385 | The official Python SDK for Model Context Protocol servers and clients | [source](https://www.star-history.com/modelcontextprotocol/python-sdk) |
-| 10 | mcp | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | 11 | 15,170 | MCP server to provide Figma layout information to AI coding agents like Cursor | [source](https://www.star-history.com/GLips/Figma-Context-MCP) |
+| 1 | mcp | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 29 | 30,852 | GitHub's official MCP Server | [source](https://www.star-history.com/github/github-mcp-server) |
+| 2 | mcp | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 29 | 9,534 | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | [source](https://www.star-history.com/mrexodia/ida-pro-mcp) |
+| 3 | mcp | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 23 | 14,265 | MCP for xiaohongshu.com | [source](https://www.star-history.com/xpzouying/xiaohongshu-mcp) |
+| 4 | mcp | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 20 | 34,155 | Playwright MCP server | [source](https://www.star-history.com/microsoft/playwright-mcp) |
+| 5 | mcp | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | 17 | 15,170 | MCP server to provide Figma layout information to AI coding agents like Cursor | [source](https://www.star-history.com/GLips/Figma-Context-MCP) |
+| 6 | mcp | [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | 15 | 10,142 | Visual testing tool for MCP servers | [source](https://www.star-history.com/modelcontextprotocol/inspector) |
+| 7 | mcp | [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 14 | 25,730 | 🚀 The fast, Pythonic way to build MCP servers and clients. | [source](https://www.star-history.com/PrefectHQ/fastmcp) |
+| 8 | mcp | [awslabs/mcp](https://github.com/awslabs/mcp) | 9 | 9,306 | Open source MCP Servers for AWS | [source](https://www.star-history.com/awslabs/mcp) |
+| 9 | mcp | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 8 | 23,385 | The official Python SDK for Model Context Protocol servers and clients | [source](https://www.star-history.com/modelcontextprotocol/python-sdk) |
+| 10 | mcp | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 6 | 16,579 | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a... | [source](https://www.star-history.com/microsoft/mcp-for-beginners) |
 
 Note: Candidate repositories are curated in `src/repositories.mjs`; failed fetches are retained in `data/stars-skills-mcp.json` with an `error` field.
