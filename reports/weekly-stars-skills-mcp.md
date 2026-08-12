@@ -1,6 +1,6 @@
 # Weekly GitHub Stars: Skills and MCP
 
-Generated at: 2026-08-11T02:34:31.627Z
+Generated at: 2026-08-12T03:04:24.311Z
 Window: Star History's current weekly activity window at generation time.
 Source: Star History API weekly_activity.new_stars.
 Intro: repository metadata description, shortened for table display.
