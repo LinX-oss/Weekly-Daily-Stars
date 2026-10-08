@@ -1,7 +1,7 @@
 # Daily GitHub Stars: Skills and MCP
 
-Generated at: 2026-10-07T06:17:40.599Z
-Window: 2026-10-06T06:17:40.599Z to 2026-10-07T06:17:40.599Z.
+Generated at: 2026-10-08T06:27:33.346Z
+Window: 2026-10-07T06:27:33.346Z to 2026-10-08T06:27:33.346Z.
 Source: GitHub stargazers API, counted from generatedAt minus 24 hours.
 Intro: repository metadata description, shortened for table display.
 
