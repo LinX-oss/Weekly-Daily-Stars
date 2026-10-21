@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T05:06:56.403Z",
-  "dailySince": "2026-10-19T05:06:56.403Z",
+  "generatedAt": "2026-10-21T05:08:07.582Z",
+  "dailySince": "2026-10-20T05:08:07.582Z",
   "requestedWindow": "all",
   "sources": {
     "weeklyStars": "Star History API weekly_activity.new_stars",
@@ -15,7 +15,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/servers",
       "weeklyStars": 247,
       "weeklyPushes": 3,
-      "totalStars": 91379,
+      "totalStars": 91405,
       "description": "Model Context Protocol Servers",
       "intro": "Model Context Protocol Servers",
       "topics": [],
@@ -24,8 +24,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=914: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=915: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "mcp",
@@ -34,7 +34,7 @@
       "starHistory": "https://www.star-history.com/punkpeye/awesome-mcp-servers",
       "weeklyStars": 487,
       "weeklyPushes": 0,
-      "totalStars": 96606,
+      "totalStars": 96654,
       "description": "A collection of MCP servers.",
       "intro": "A collection of MCP servers.",
       "topics": [
@@ -46,7 +46,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/punkpeye/awesome-mcp-servers/stargazers?per_page=100&page=967: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -56,7 +56,7 @@
       "starHistory": "https://www.star-history.com/ChromeDevTools/chrome-devtools-mcp",
       "weeklyStars": 556,
       "weeklyPushes": 14,
-      "totalStars": 53844,
+      "totalStars": 53907,
       "description": "Chrome DevTools for coding agents",
       "intro": "Chrome DevTools for coding agents",
       "topics": [
@@ -74,8 +74,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=539: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=540: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "mcp",
@@ -84,7 +84,7 @@
       "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
       "weeklyStars": 340,
       "weeklyPushes": 0,
-      "totalStars": 38368,
+      "totalStars": 38411,
       "description": "Playwright MCP server",
       "intro": "Playwright MCP server",
       "topics": [
@@ -96,8 +96,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/microsoft/playwright-mcp/stargazers?per_page=100&page=384: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/microsoft/playwright-mcp/stargazers?per_page=100&page=385: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "mcp",
@@ -106,7 +106,7 @@
       "starHistory": "https://www.star-history.com/github/github-mcp-server",
       "weeklyStars": 247,
       "weeklyPushes": 0,
-      "totalStars": 33765,
+      "totalStars": 33791,
       "description": "GitHub's official MCP Server",
       "intro": "GitHub's official MCP Server",
       "topics": [
@@ -119,7 +119,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/github/github-mcp-server/stargazers?per_page=100&page=338: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -129,7 +129,7 @@
       "starHistory": "https://www.star-history.com/PrefectHQ/fastmcp",
       "weeklyStars": 97,
       "weeklyPushes": 4,
-      "totalStars": 28136,
+      "totalStars": 28147,
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "intro": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "topics": [
@@ -148,7 +148,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/PrefectHQ/fastmcp/stargazers?per_page=100&page=282: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -170,7 +170,7 @@
       "starHistory": "https://www.star-history.com/czlonkowski/n8n-mcp",
       "weeklyStars": 67,
       "weeklyPushes": 0,
-      "totalStars": 23104,
+      "totalStars": 23102,
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
       "intro": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "topics": [
@@ -184,7 +184,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/czlonkowski/n8n-mcp/stargazers?per_page=100&page=232: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -194,7 +194,7 @@
       "starHistory": "https://www.star-history.com/microsoft/mcp-for-beginners",
       "weeklyStars": 54,
       "weeklyPushes": 0,
-      "totalStars": 17472,
+      "totalStars": 17478,
       "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
       "intro": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust a...",
       "topics": [
@@ -218,7 +218,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/microsoft/mcp-for-beginners/stargazers?per_page=100&page=175: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -228,7 +228,7 @@
       "starHistory": "https://www.star-history.com/googleapis/mcp-toolbox",
       "weeklyStars": 43,
       "weeklyPushes": 4,
-      "totalStars": 16684,
+      "totalStars": 16690,
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "intro": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "topics": [
@@ -258,7 +258,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/googleapis/mcp-toolbox/stargazers?per_page=100&page=167: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -268,7 +268,7 @@
       "starHistory": "https://www.star-history.com/GLips/Figma-Context-MCP",
       "weeklyStars": 47,
       "weeklyPushes": 0,
-      "totalStars": 16011,
+      "totalStars": 16019,
       "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
       "intro": "MCP server to provide Figma layout information to AI coding agents like Cursor",
       "topics": [
@@ -283,7 +283,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/GLips/Figma-Context-MCP/stargazers?per_page=100&page=161: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -293,7 +293,7 @@
       "starHistory": "https://www.star-history.com/xpzouying/xiaohongshu-mcp",
       "weeklyStars": 163,
       "weeklyPushes": 0,
-      "totalStars": 16381,
+      "totalStars": 16392,
       "description": "MCP for xiaohongshu.com",
       "intro": "MCP for xiaohongshu.com",
       "topics": [
@@ -306,7 +306,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/xpzouying/xiaohongshu-mcp/stargazers?per_page=100&page=164: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -316,7 +316,7 @@
       "starHistory": "https://www.star-history.com/tadata-org/fastapi_mcp",
       "weeklyStars": 10,
       "weeklyPushes": 0,
-      "totalStars": 12023,
+      "totalStars": 12021,
       "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "intro": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "topics": [
@@ -339,7 +339,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/tadata-org/fastapi_mcp/stargazers?per_page=100&page=121: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -349,7 +349,7 @@
       "starHistory": "https://www.star-history.com/hangwin/mcp-chrome",
       "weeklyStars": 29,
       "weeklyPushes": 0,
-      "totalStars": 12497,
+      "totalStars": 12499,
       "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
       "intro": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex b...",
       "topics": [],
@@ -358,7 +358,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/hangwin/mcp-chrome/stargazers?per_page=100&page=125: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -368,7 +368,7 @@
       "starHistory": "https://www.star-history.com/BeehiveInnovations/pal-mcp-server",
       "weeklyStars": 22,
       "weeklyPushes": 0,
-      "totalStars": 11787,
+      "totalStars": 11792,
       "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
       "intro": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
       "topics": [],
@@ -377,7 +377,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/BeehiveInnovations/pal-mcp-server/stargazers?per_page=100&page=118: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -387,7 +387,7 @@
       "starHistory": "https://www.star-history.com/mcp-use/mcp-use",
       "weeklyStars": 40,
       "weeklyPushes": 5,
-      "totalStars": 10785,
+      "totalStars": 10790,
       "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
       "intro": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
       "topics": [
@@ -417,7 +417,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/mcp-use/mcp-use/stargazers?per_page=100&page=108: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -427,7 +427,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/python-sdk",
       "weeklyStars": 76,
       "weeklyPushes": 0,
-      "totalStars": 24620,
+      "totalStars": 24623,
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "intro": "The official Python SDK for Model Context Protocol servers and clients",
       "topics": [
@@ -441,7 +441,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/python-sdk/stargazers?per_page=100&page=247: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -451,7 +451,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/typescript-sdk",
       "weeklyStars": 62,
       "weeklyPushes": 2,
-      "totalStars": 13614,
+      "totalStars": 13622,
       "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
       "intro": "The official TypeScript SDK for Model Context Protocol servers and clients",
       "topics": [
@@ -465,7 +465,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/typescript-sdk/stargazers?per_page=100&page=137: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -475,7 +475,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/inspector",
       "weeklyStars": 46,
       "weeklyPushes": 9,
-      "totalStars": 11101,
+      "totalStars": 11108,
       "description": "Visual testing tool for MCP servers",
       "intro": "Visual testing tool for MCP servers",
       "topics": [
@@ -491,7 +491,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/inspector/stargazers?per_page=100&page=112: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -501,7 +501,7 @@
       "starHistory": "https://www.star-history.com/awslabs/mcp",
       "weeklyStars": 26,
       "weeklyPushes": 2,
-      "totalStars": 9794,
+      "totalStars": 9798,
       "description": "Open source MCP Servers for AWS",
       "intro": "Open source MCP Servers for AWS",
       "topics": [
@@ -520,7 +520,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/awslabs/mcp/stargazers?per_page=100&page=98: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -530,7 +530,7 @@
       "starHistory": "https://www.star-history.com/LaurieWired/GhidraMCP",
       "weeklyStars": 329,
       "weeklyPushes": 0,
-      "totalStars": 11406,
+      "totalStars": 11430,
       "description": "MCP Server for Ghidra",
       "intro": "MCP Server for Ghidra",
       "topics": [],
@@ -539,7 +539,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/LaurieWired/GhidraMCP/stargazers?per_page=100&page=115: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -549,7 +549,7 @@
       "starHistory": "https://www.star-history.com/mrexodia/ida-pro-mcp",
       "weeklyStars": 360,
       "weeklyPushes": 0,
-      "totalStars": 13017,
+      "totalStars": 13047,
       "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "intro": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "topics": [
@@ -568,7 +568,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/mrexodia/ida-pro-mcp/stargazers?per_page=100&page=131: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -578,7 +578,7 @@
       "starHistory": "https://www.star-history.com/mark3labs/mcp-go",
       "weeklyStars": 18,
       "weeklyPushes": 7,
-      "totalStars": 9174,
+      "totalStars": 9176,
       "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
       "intro": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
       "topics": [],
@@ -587,7 +587,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/mark3labs/mcp-go/stargazers?per_page=100&page=92: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -615,7 +615,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/lastmile-ai/mcp-agent/stargazers?per_page=100&page=86: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -625,7 +625,7 @@
       "starHistory": "https://www.star-history.com/modelcontextprotocol/registry",
       "weeklyStars": 41,
       "weeklyPushes": 0,
-      "totalStars": 7380,
+      "totalStars": 7384,
       "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "intro": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "topics": [
@@ -637,7 +637,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/registry/stargazers?per_page=100&page=74: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -647,7 +647,7 @@
       "starHistory": "https://www.star-history.com/0x4m4/hexstrike-ai",
       "weeklyStars": 285,
       "weeklyPushes": 0,
-      "totalStars": 12944,
+      "totalStars": 12970,
       "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
       "intro": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil...",
       "topics": [
@@ -677,7 +677,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/0x4m4/hexstrike-ai/stargazers?per_page=100&page=130: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -699,7 +699,7 @@
       "starHistory": "https://www.star-history.com/idosal/git-mcp",
       "weeklyStars": 19,
       "weeklyPushes": 0,
-      "totalStars": 8471,
+      "totalStars": 8472,
       "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
       "intro": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
       "topics": [
@@ -718,7 +718,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/idosal/git-mcp/stargazers?per_page=100&page=85: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -728,7 +728,7 @@
       "starHistory": "https://www.star-history.com/executeautomation/mcp-playwright",
       "weeklyStars": 6,
       "weeklyPushes": 0,
-      "totalStars": 5668,
+      "totalStars": 5669,
       "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
       "intro": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
       "topics": [],
@@ -737,7 +737,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/executeautomation/mcp-playwright/stargazers?per_page=100&page=57: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -747,7 +747,7 @@
       "starHistory": "https://www.star-history.com/mobile-next/mobile-mcp",
       "weeklyStars": 739,
       "weeklyPushes": 1,
-      "totalStars": 9766,
+      "totalStars": 9811,
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "intro": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "topics": [
@@ -766,8 +766,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/mobile-next/mobile-mcp/stargazers?per_page=100&page=98: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/mobile-next/mobile-mcp/stargazers?per_page=100&page=99: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "mcp",
@@ -836,7 +836,7 @@
       "starHistory": "https://www.star-history.com/affaan-m/ECC",
       "weeklyStars": 6447,
       "weeklyPushes": 0,
-      "totalStars": 283819,
+      "totalStars": 284525,
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "topics": [
@@ -854,8 +854,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2839: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2846: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -864,7 +864,7 @@
       "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "weeklyStars": 2547,
       "weeklyPushes": 0,
-      "totalStars": 137511,
+      "totalStars": 137847,
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "intro": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "topics": [
@@ -893,8 +893,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1376: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1379: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -903,7 +903,7 @@
       "starHistory": "https://www.star-history.com/ComposioHQ/awesome-claude-skills",
       "weeklyStars": 557,
       "weeklyPushes": 0,
-      "totalStars": 77426,
+      "totalStars": 77490,
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "intro": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "topics": [
@@ -930,7 +930,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/ComposioHQ/awesome-claude-skills/stargazers?per_page=100&page=775: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -940,7 +940,7 @@
       "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
       "weeklyStars": 2586,
       "weeklyPushes": 3,
-      "totalStars": 113616,
+      "totalStars": 113786,
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "intro": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "topics": [
@@ -960,8 +960,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1137: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1138: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -982,7 +982,7 @@
       "starHistory": "https://www.star-history.com/VoltAgent/awesome-openclaw-skills",
       "weeklyStars": 180,
       "weeklyPushes": 0,
-      "totalStars": 53214,
+      "totalStars": 53233,
       "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "intro": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "topics": [
@@ -1004,7 +1004,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/VoltAgent/awesome-openclaw-skills/stargazers?per_page=100&page=533: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -1014,7 +1014,7 @@
       "starHistory": "https://www.star-history.com/VoltAgent/awesome-agent-skills",
       "weeklyStars": 458,
       "weeklyPushes": 0,
-      "totalStars": 35988,
+      "totalStars": 36051,
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "intro": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "topics": [
@@ -1038,8 +1038,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/VoltAgent/awesome-agent-skills/stargazers?per_page=100&page=360: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/VoltAgent/awesome-agent-skills/stargazers?per_page=100&page=361: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1048,7 +1048,7 @@
       "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
       "weeklyStars": 3245,
       "weeklyPushes": 0,
-      "totalStars": 108506,
+      "totalStars": 108827,
       "description": "Production-grade engineering skills for AI coding agents.",
       "intro": "Production-grade engineering skills for AI coding agents.",
       "topics": [
@@ -1064,8 +1064,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1086: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1089: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1074,7 +1074,7 @@
       "starHistory": "https://www.star-history.com/vercel-labs/skills",
       "weeklyStars": 1694,
       "weeklyPushes": 0,
-      "totalStars": 35626,
+      "totalStars": 35785,
       "description": "The open agent skills tool - npx skills",
       "intro": "The open agent skills tool - npx skills",
       "topics": [],
@@ -1083,8 +1083,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=357: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=358: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1093,7 +1093,7 @@
       "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
       "weeklyStars": 749,
       "weeklyPushes": 2,
-      "totalStars": 64740,
+      "totalStars": 64843,
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "topics": [
@@ -1123,8 +1123,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=648: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=649: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1133,7 +1133,7 @@
       "starHistory": "https://www.star-history.com/Imbad0202/academic-research-skills",
       "weeklyStars": 1484,
       "weeklyPushes": 0,
-      "totalStars": 52951,
+      "totalStars": 53130,
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "intro": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "topics": [
@@ -1151,8 +1151,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=530: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=532: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1161,7 +1161,7 @@
       "starHistory": "https://www.star-history.com/OthmanAdi/planning-with-files",
       "weeklyStars": 136,
       "weeklyPushes": 0,
-      "totalStars": 27531,
+      "totalStars": 27549,
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "intro": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection again...",
       "topics": [
@@ -1191,7 +1191,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/OthmanAdi/planning-with-files/stargazers?per_page=100&page=276: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -1201,7 +1201,7 @@
       "starHistory": "https://www.star-history.com/blader/humanizer",
       "weeklyStars": 2374,
       "weeklyPushes": 0,
-      "totalStars": 58395,
+      "totalStars": 58742,
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "intro": "Agent skill that removes signs of AI-generated writing from text",
       "topics": [
@@ -1224,8 +1224,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=584: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=588: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1258,7 +1258,7 @@
       "starHistory": "https://www.star-history.com/tanweai/pua",
       "weeklyStars": 40,
       "weeklyPushes": 0,
-      "totalStars": 19721,
+      "totalStars": 19722,
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
       "intro": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.",
       "topics": [
@@ -1272,7 +1272,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/tanweai/pua/stargazers?per_page=100&page=198: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -1282,7 +1282,7 @@
       "starHistory": "https://www.star-history.com/alirezarezvani/claude-skills",
       "weeklyStars": 372,
       "weeklyPushes": 0,
-      "totalStars": 28399,
+      "totalStars": 28445,
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "intro": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8...",
       "topics": [
@@ -1312,8 +1312,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/alirezarezvani/claude-skills/stargazers?per_page=100&page=284: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/alirezarezvani/claude-skills/stargazers?per_page=100&page=285: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1346,7 +1346,7 @@
       "starHistory": "https://www.star-history.com/phuryn/pm-skills",
       "weeklyStars": 308,
       "weeklyPushes": 0,
-      "totalStars": 27210,
+      "totalStars": 27247,
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "intro": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "topics": [
@@ -1363,7 +1363,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/phuryn/pm-skills/stargazers?per_page=100&page=273: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -1373,7 +1373,7 @@
       "starHistory": "https://www.star-history.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "weeklyStars": 404,
       "weeklyPushes": 0,
-      "totalStars": 17722,
+      "totalStars": 17779,
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
       "intro": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework...",
       "topics": [
@@ -1403,7 +1403,7 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
+      "dailySince": "2026-10-20T05:08:07.582Z",
       "dailyError": "403 Forbidden for https://api.github.com/repos/wanshuiyin/Auto-claude-code-research-in-sleep/stargazers?per_page=100&page=178: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
@@ -1413,7 +1413,7 @@
       "starHistory": "https://www.star-history.com/kepano/obsidian-skills",
       "weeklyStars": 375,
       "weeklyPushes": 0,
-      "totalStars": 49770,
+      "totalStars": 49806,
       "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "intro": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "topics": [
@@ -1440,8 +1440,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/kepano/obsidian-skills/stargazers?per_page=100&page=498: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/kepano/obsidian-skills/stargazers?per_page=100&page=499: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1450,7 +1450,7 @@
       "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
       "weeklyStars": 4302,
       "weeklyPushes": 0,
-      "totalStars": 99217,
+      "totalStars": 99680,
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "intro": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "topics": [
@@ -1471,8 +1471,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=993: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=997: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1481,7 +1481,7 @@
       "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
       "weeklyStars": 5220,
       "weeklyPushes": 17,
-      "totalStars": 43101,
+      "totalStars": 43319,
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "topics": [
@@ -1494,8 +1494,8 @@
       "dailyStars": null,
       "dailyScannedPages": 0,
       "dailySource": "github.com stargazers API",
-      "dailySince": "2026-10-19T05:06:56.403Z",
-      "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=432: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+      "dailySince": "2026-10-20T05:08:07.582Z",
+      "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=434: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
     },
     {
       "kind": "skill",
@@ -1594,7 +1594,7 @@
         "starHistory": "https://www.star-history.com/affaan-m/ECC",
         "weeklyStars": 6447,
         "weeklyPushes": 0,
-        "totalStars": 283819,
+        "totalStars": 284525,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "topics": [
@@ -1612,8 +1612,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2839: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2846: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1622,7 +1622,7 @@
         "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
         "weeklyStars": 5220,
         "weeklyPushes": 17,
-        "totalStars": 43101,
+        "totalStars": 43319,
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "topics": [
@@ -1635,8 +1635,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=432: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=434: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1645,7 +1645,7 @@
         "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
         "weeklyStars": 4302,
         "weeklyPushes": 0,
-        "totalStars": 99217,
+        "totalStars": 99680,
         "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "intro": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "topics": [
@@ -1666,8 +1666,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=993: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=997: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1676,7 +1676,7 @@
         "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
         "weeklyStars": 3245,
         "weeklyPushes": 0,
-        "totalStars": 108506,
+        "totalStars": 108827,
         "description": "Production-grade engineering skills for AI coding agents.",
         "intro": "Production-grade engineering skills for AI coding agents.",
         "topics": [
@@ -1692,8 +1692,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1086: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1089: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1702,7 +1702,7 @@
         "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
         "weeklyStars": 2586,
         "weeklyPushes": 3,
-        "totalStars": 113616,
+        "totalStars": 113786,
         "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
         "intro": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
         "topics": [
@@ -1722,8 +1722,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1137: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1138: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1732,7 +1732,7 @@
         "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "weeklyStars": 2547,
         "weeklyPushes": 0,
-        "totalStars": 137511,
+        "totalStars": 137847,
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
         "intro": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
         "topics": [
@@ -1761,8 +1761,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1376: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1379: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1771,7 +1771,7 @@
         "starHistory": "https://www.star-history.com/blader/humanizer",
         "weeklyStars": 2374,
         "weeklyPushes": 0,
-        "totalStars": 58395,
+        "totalStars": 58742,
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "intro": "Agent skill that removes signs of AI-generated writing from text",
         "topics": [
@@ -1794,8 +1794,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=584: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=588: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1804,7 +1804,7 @@
         "starHistory": "https://www.star-history.com/vercel-labs/skills",
         "weeklyStars": 1694,
         "weeklyPushes": 0,
-        "totalStars": 35626,
+        "totalStars": 35785,
         "description": "The open agent skills tool - npx skills",
         "intro": "The open agent skills tool - npx skills",
         "topics": [],
@@ -1813,8 +1813,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=357: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=358: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1823,7 +1823,7 @@
         "starHistory": "https://www.star-history.com/Imbad0202/academic-research-skills",
         "weeklyStars": 1484,
         "weeklyPushes": 0,
-        "totalStars": 52951,
+        "totalStars": 53130,
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "intro": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "topics": [
@@ -1841,8 +1841,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=530: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=532: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1851,7 +1851,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 749,
         "weeklyPushes": 2,
-        "totalStars": 64740,
+        "totalStars": 64843,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -1881,8 +1881,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=648: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=649: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       }
     ],
     "weeklySkills": [
@@ -1893,7 +1893,7 @@
         "starHistory": "https://www.star-history.com/affaan-m/ECC",
         "weeklyStars": 6447,
         "weeklyPushes": 0,
-        "totalStars": 283819,
+        "totalStars": 284525,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "intro": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "topics": [
@@ -1911,8 +1911,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2839: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/affaan-m/ECC/stargazers?per_page=100&page=2846: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1921,7 +1921,7 @@
         "starHistory": "https://www.star-history.com/anthropics/claude-plugins-official",
         "weeklyStars": 5220,
         "weeklyPushes": 17,
-        "totalStars": 43101,
+        "totalStars": 43319,
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "intro": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "topics": [
@@ -1934,8 +1934,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=432: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/anthropics/claude-plugins-official/stargazers?per_page=100&page=434: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1944,7 +1944,7 @@
         "starHistory": "https://www.star-history.com/Leonxlnx/taste-skill",
         "weeklyStars": 4302,
         "weeklyPushes": 0,
-        "totalStars": 99217,
+        "totalStars": 99680,
         "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "intro": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "topics": [
@@ -1965,8 +1965,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=993: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/Leonxlnx/taste-skill/stargazers?per_page=100&page=997: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -1975,7 +1975,7 @@
         "starHistory": "https://www.star-history.com/addyosmani/agent-skills",
         "weeklyStars": 3245,
         "weeklyPushes": 0,
-        "totalStars": 108506,
+        "totalStars": 108827,
         "description": "Production-grade engineering skills for AI coding agents.",
         "intro": "Production-grade engineering skills for AI coding agents.",
         "topics": [
@@ -1991,8 +1991,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1086: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/addyosmani/agent-skills/stargazers?per_page=100&page=1089: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2001,7 +2001,7 @@
         "starHistory": "https://www.star-history.com/JuliusBrussee/caveman",
         "weeklyStars": 2586,
         "weeklyPushes": 3,
-        "totalStars": 113616,
+        "totalStars": 113786,
         "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
         "intro": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
         "topics": [
@@ -2021,8 +2021,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1137: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/JuliusBrussee/caveman/stargazers?per_page=100&page=1138: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2031,7 +2031,7 @@
         "starHistory": "https://www.star-history.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "weeklyStars": 2547,
         "weeklyPushes": 0,
-        "totalStars": 137511,
+        "totalStars": 137847,
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
         "intro": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
         "topics": [
@@ -2060,8 +2060,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1376: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/nextlevelbuilder/ui-ux-pro-max-skill/stargazers?per_page=100&page=1379: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2070,7 +2070,7 @@
         "starHistory": "https://www.star-history.com/blader/humanizer",
         "weeklyStars": 2374,
         "weeklyPushes": 0,
-        "totalStars": 58395,
+        "totalStars": 58742,
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "intro": "Agent skill that removes signs of AI-generated writing from text",
         "topics": [
@@ -2093,8 +2093,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=584: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/blader/humanizer/stargazers?per_page=100&page=588: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2103,7 +2103,7 @@
         "starHistory": "https://www.star-history.com/vercel-labs/skills",
         "weeklyStars": 1694,
         "weeklyPushes": 0,
-        "totalStars": 35626,
+        "totalStars": 35785,
         "description": "The open agent skills tool - npx skills",
         "intro": "The open agent skills tool - npx skills",
         "topics": [],
@@ -2112,8 +2112,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=357: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/vercel-labs/skills/stargazers?per_page=100&page=358: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2122,7 +2122,7 @@
         "starHistory": "https://www.star-history.com/Imbad0202/academic-research-skills",
         "weeklyStars": 1484,
         "weeklyPushes": 0,
-        "totalStars": 52951,
+        "totalStars": 53130,
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "intro": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "topics": [
@@ -2140,8 +2140,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=530: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/Imbad0202/academic-research-skills/stargazers?per_page=100&page=532: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "skill",
@@ -2150,7 +2150,7 @@
         "starHistory": "https://www.star-history.com/mvanhorn/last30days-skill",
         "weeklyStars": 749,
         "weeklyPushes": 2,
-        "totalStars": 64740,
+        "totalStars": 64843,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "intro": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "topics": [
@@ -2180,8 +2180,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=648: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/mvanhorn/last30days-skill/stargazers?per_page=100&page=649: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       }
     ],
     "weeklyMcp": [
@@ -2192,7 +2192,7 @@
         "starHistory": "https://www.star-history.com/mobile-next/mobile-mcp",
         "weeklyStars": 739,
         "weeklyPushes": 1,
-        "totalStars": 9766,
+        "totalStars": 9811,
         "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
         "intro": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
         "topics": [
@@ -2211,8 +2211,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/mobile-next/mobile-mcp/stargazers?per_page=100&page=98: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/mobile-next/mobile-mcp/stargazers?per_page=100&page=99: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "mcp",
@@ -2221,7 +2221,7 @@
         "starHistory": "https://www.star-history.com/ChromeDevTools/chrome-devtools-mcp",
         "weeklyStars": 556,
         "weeklyPushes": 14,
-        "totalStars": 53844,
+        "totalStars": 53907,
         "description": "Chrome DevTools for coding agents",
         "intro": "Chrome DevTools for coding agents",
         "topics": [
@@ -2239,8 +2239,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=539: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/ChromeDevTools/chrome-devtools-mcp/stargazers?per_page=100&page=540: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "mcp",
@@ -2249,7 +2249,7 @@
         "starHistory": "https://www.star-history.com/punkpeye/awesome-mcp-servers",
         "weeklyStars": 487,
         "weeklyPushes": 0,
-        "totalStars": 96606,
+        "totalStars": 96654,
         "description": "A collection of MCP servers.",
         "intro": "A collection of MCP servers.",
         "topics": [
@@ -2261,7 +2261,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/punkpeye/awesome-mcp-servers/stargazers?per_page=100&page=967: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
@@ -2271,7 +2271,7 @@
         "starHistory": "https://www.star-history.com/mrexodia/ida-pro-mcp",
         "weeklyStars": 360,
         "weeklyPushes": 0,
-        "totalStars": 13017,
+        "totalStars": 13047,
         "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
         "intro": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
         "topics": [
@@ -2290,7 +2290,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/mrexodia/ida-pro-mcp/stargazers?per_page=100&page=131: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
@@ -2300,7 +2300,7 @@
         "starHistory": "https://www.star-history.com/microsoft/playwright-mcp",
         "weeklyStars": 340,
         "weeklyPushes": 0,
-        "totalStars": 38368,
+        "totalStars": 38411,
         "description": "Playwright MCP server",
         "intro": "Playwright MCP server",
         "topics": [
@@ -2312,8 +2312,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/microsoft/playwright-mcp/stargazers?per_page=100&page=384: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/microsoft/playwright-mcp/stargazers?per_page=100&page=385: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "mcp",
@@ -2322,7 +2322,7 @@
         "starHistory": "https://www.star-history.com/LaurieWired/GhidraMCP",
         "weeklyStars": 329,
         "weeklyPushes": 0,
-        "totalStars": 11406,
+        "totalStars": 11430,
         "description": "MCP Server for Ghidra",
         "intro": "MCP Server for Ghidra",
         "topics": [],
@@ -2331,7 +2331,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/LaurieWired/GhidraMCP/stargazers?per_page=100&page=115: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
@@ -2341,7 +2341,7 @@
         "starHistory": "https://www.star-history.com/0x4m4/hexstrike-ai",
         "weeklyStars": 285,
         "weeklyPushes": 0,
-        "totalStars": 12944,
+        "totalStars": 12970,
         "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
         "intro": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerabil...",
         "topics": [
@@ -2371,7 +2371,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/0x4m4/hexstrike-ai/stargazers?per_page=100&page=130: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
@@ -2381,7 +2381,7 @@
         "starHistory": "https://www.star-history.com/modelcontextprotocol/servers",
         "weeklyStars": 247,
         "weeklyPushes": 3,
-        "totalStars": 91379,
+        "totalStars": 91405,
         "description": "Model Context Protocol Servers",
         "intro": "Model Context Protocol Servers",
         "topics": [],
@@ -2390,8 +2390,8 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
-        "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=914: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
+        "dailySince": "2026-10-20T05:08:07.582Z",
+        "dailyError": "403 Forbidden for https://api.github.com/repos/modelcontextprotocol/servers/stargazers?per_page=100&page=915: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
         "kind": "mcp",
@@ -2400,7 +2400,7 @@
         "starHistory": "https://www.star-history.com/github/github-mcp-server",
         "weeklyStars": 247,
         "weeklyPushes": 0,
-        "totalStars": 33765,
+        "totalStars": 33791,
         "description": "GitHub's official MCP Server",
         "intro": "GitHub's official MCP Server",
         "topics": [
@@ -2413,7 +2413,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/github/github-mcp-server/stargazers?per_page=100&page=338: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       },
       {
@@ -2423,7 +2423,7 @@
         "starHistory": "https://www.star-history.com/xpzouying/xiaohongshu-mcp",
         "weeklyStars": 163,
         "weeklyPushes": 0,
-        "totalStars": 16381,
+        "totalStars": 16392,
         "description": "MCP for xiaohongshu.com",
         "intro": "MCP for xiaohongshu.com",
         "topics": [
@@ -2436,7 +2436,7 @@
         "dailyStars": null,
         "dailyScannedPages": 0,
         "dailySource": "github.com stargazers API",
-        "dailySince": "2026-10-19T05:06:56.403Z",
+        "dailySince": "2026-10-20T05:08:07.582Z",
         "dailyError": "403 Forbidden for https://api.github.com/repos/xpzouying/xiaohongshu-mcp/stargazers?per_page=100&page=164: {\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/activity/starring#list-stargazers\",\"status\":\"403\"}"
       }
     ]
